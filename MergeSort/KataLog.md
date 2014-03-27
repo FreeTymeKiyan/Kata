@@ -15,6 +15,7 @@ To implement merge sort in Java in less than 5min.
 | MergeSort5.java    |√           |5m7s  |
 | MergeSort6.java    |x           |5m8s  |
 | MergeSort7.java    |√           |5m11s |
+| MergeSort8.java    |√           |5m13s |
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
