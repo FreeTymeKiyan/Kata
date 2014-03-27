@@ -13,9 +13,12 @@ To implement merge sort in Java in less than 5min.
 | MergeSort3.java    |x           |6m59s |
 | MergeSort4.java    |√           |6m20s |
 | MergeSort5.java    |√           |5m7s  |
+| MergeSort6.java    |x           |5m8s  |
+| MergeSort7.java    |√           |5m11s |
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
 2. didn't copy from helper int array to array
 3. wrong index for copying the remaining elements
+4. int helperRight = middle + 1; not high or middle
 
