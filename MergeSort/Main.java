@@ -33,7 +33,8 @@ class Main {
         //MergeSort5.sort(array, 0, array.length - 1);
         //MergeSort6.sort(array, 0, array.length - 1);
         //MergeSort7.sort(array, 0, array.length - 1);
-        MergeSort8.sort(array, 0, array.length - 1);
+        //MergeSort8.sort(array, 0, array.length - 1);
+        MergeSort9.sort(array, 0, array.length - 1);
         printArr(array);
     }
 
