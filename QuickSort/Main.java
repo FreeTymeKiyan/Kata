@@ -26,7 +26,8 @@ class Main {
     public static void main(String args[]) {
         printArr(array);  
         //QuickSort.sort(array, 0, array.length - 1);
-        QuickSort1.sort(array, 0, array.length - 1);
+        //QuickSort1.sort(array, 0, array.length - 1);
+        QuickSort2.sort(array, 0, array.length - 1);
         printArr(array);
     }
 

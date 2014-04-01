@@ -9,5 +9,8 @@ To implement quick sort in Java in less than 4min.
 | ------------------ |:----------:|:----:|
 | QuickSort.java     |√           |05m11s|
 | QuickSort1.java    |x           |04m33s|
+| QuickSort2.java    |x           |04m14s|
 
 ## Reasons for wrong:
+1. if(left < right) is not right. Should be if(left <= right). Last step is not swapped.
+
