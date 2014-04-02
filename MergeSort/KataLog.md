@@ -2,6 +2,7 @@
 
 ## Goal
 To implement merge sort in Java in less than 5min.
+Update: less than 4min
 
 ## Log
 
