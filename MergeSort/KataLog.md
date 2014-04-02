@@ -20,6 +20,7 @@ To implement merge sort in Java in less than 5min.
 | MergeSort10.java   |√           |4m22s |
 | MergeSort11.java   |√           |4m09s |
 | MergeSort12.java   |√           |4m48s |
+| MergeSort13.java   |x           |3m52s |
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
@@ -27,3 +28,4 @@ To implement merge sort in Java in less than 5min.
 3. wrong index for copying the remaining elements
 4. int helperRight = middle + 1; not high or middle
 5. int remain = middle - helperLeft; not middle - low
+6. , was typed into .
