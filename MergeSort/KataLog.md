@@ -23,6 +23,7 @@ Update: less than 4min
 | MergeSort12.java   |√           |4m48s |
 | MergeSort13.java   |x           |3m52s |
 | MergeSort14.java   |√           |4m29s |
+| MergeSort15.java   |x           |4m38s |
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
@@ -31,3 +32,4 @@ Update: less than 4min
 4. int helperRight = middle + 1; not high or middle
 5. int remain = middle - helperLeft; not middle - low
 6. , was typed into .
+7. sort(array, low, middle) not sort(array, low, middle - 1); sort(array, middle + 1, high) not sort(array, middle, high)
