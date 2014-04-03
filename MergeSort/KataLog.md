@@ -34,3 +34,4 @@ Update: less than 4min
 5. int remain = middle - helperLeft; not middle - low
 6. , was typed into .
 7. sort(array, low, middle) not sort(array, low, middle - 1); sort(array, middle + 1, high) not sort(array, middle, high)
+8. when comparing, we are comapring helper array, not original one, because original one will be modified during merging.
