@@ -1,4 +1,8 @@
-Kata
-====
+# Kata
+Use kata method to practice algorithms
 
-use kata method to practice algorithms
+## Records
+### MergeSort
+04m02s
+### QuickSort
+03m58s

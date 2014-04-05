@@ -13,7 +13,9 @@ To implement quick sort in Java in less than 4min.
 | QuickSort3.java    |√           |03m58s|
 | QuickSort4.java    |x           |03m23s|
 | QuickSort5.java    |x           |03m33s|
+| QuickSort6.java    |x           |03m35s|
 
 ## Reasons for wrong:
 1. if(left < right) is not right. Should be if(left <= right). Last step is not swapped. To make it simple, just remember, while(left <= right), if(left <= right), if these two are not the same, when left == right, it would be in the loop forever.
 2. missing return statement for partition() method.
+3. ; was typed as :
