@@ -5,4 +5,4 @@ Use kata method to practice algorithms
 ### MergeSort
 04m02s
 ### QuickSort
-03m58s
+03m20s
