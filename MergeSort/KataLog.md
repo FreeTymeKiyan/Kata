@@ -27,6 +27,7 @@ Update: less than 4min
 | MergeSort16.java   |√           |4m15s |
 | MergeSort17.java   |√           |4m02s |
 | MergeSort18.java   |√           |3m39s |
+| MergeSort19.java   |√           |3m49s |
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
