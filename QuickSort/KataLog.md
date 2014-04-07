@@ -2,6 +2,7 @@
 
 ## Goal
 To implement quick sort in Java in less than 4min.
+Update: be correct in a row for 10 times
 
 ## Log
 
@@ -17,6 +18,9 @@ To implement quick sort in Java in less than 4min.
 | QuickSort7.java    |√           |03m20s|
 | QuickSort8.java    |x           |03m05s|
 | QuickSort9.java    |√           |02m37s|
+
+## Accuracy
+4 / 10 = 40%
 
 ## Reasons for wrong:
 1. if(left < right) is not right. Should be if(left <= right). Last step is not swapped. To make it simple, just remember, while(left <= right), if(left <= right), if these two are not the same, when left == right, it would be in the loop forever.

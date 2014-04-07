@@ -3,6 +3,7 @@
 ## Goal
 To implement merge sort in Java in less than 5min.
 Update: less than 4min
+Update: be correct in a row for 10 times
 
 ## Log
 
@@ -28,6 +29,9 @@ Update: less than 4min
 | MergeSort17.java   |√           |4m02s |
 | MergeSort18.java   |√           |3m39s |
 | MergeSort19.java   |√           |3m49s |
+
+## Accuracy
+12 / 19 = 63.16%
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
