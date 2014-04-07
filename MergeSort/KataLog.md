@@ -31,7 +31,7 @@ Update: be correct in a row for 10 times
 | MergeSort19.java   |√           |3m49s |
 
 ## Accuracy
-12 / 19 = 63.16%
+13 / 20 = 65.00%
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
