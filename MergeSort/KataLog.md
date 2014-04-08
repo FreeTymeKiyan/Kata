@@ -29,9 +29,10 @@ Update: be correct in a row for 10 times
 | MergeSort17.java   |√           |4m02s |
 | MergeSort18.java   |√           |3m39s |
 | MergeSort19.java   |√           |3m49s |
+| MergeSort20.java   |√           |3m37s |
 
 ## Accuracy
-13 / 20 = 65.00%
+14 / 21 = 66.67%
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
