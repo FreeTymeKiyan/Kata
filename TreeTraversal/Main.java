@@ -19,6 +19,7 @@ public class Main {
         node7.setLeftNode(node8);
 
         //Traversal.traverse(root);
-        Traversal1.traverse(root);
+        //Traversal1.traverse(root);
+        Traversal2.traverse(root);
     }
 }
