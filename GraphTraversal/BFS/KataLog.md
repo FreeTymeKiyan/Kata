@@ -8,9 +8,9 @@ Be correct in a row for 10 times
 
 | Filename           | isRight    | Time |
 | ------------------ |:----------:|:----:|
-| bfs1.pseudo        |            |  m  s|
+| bfs1.pseudo        |√           |03m17s|
 
 ## Accuracy
-  /   =   .  %
+1 / 1 = 100.00%
 
 ## Reasons for wrong:

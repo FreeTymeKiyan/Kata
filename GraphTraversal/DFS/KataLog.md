@@ -8,9 +8,11 @@ Be correct in a row for 10 times
 
 | Filename           | isRight    | Time |
 | ------------------ |:----------:|:----:|
-| dfs1.pseudo        |            |  m  s|
+| dfs1.pseudo        |x           |01m18s|
 
 ## Accuracy
-  /   =   .  %
+0 / 1 = 00.00%
 
 ## Reasons for wrong:
+1. the class of input type should be Node
+2. 

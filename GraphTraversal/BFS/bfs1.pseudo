@@ -1,8 +1,8 @@
 void search(Node root) {
     if(root == null) return;
     Queue queue = new Queue();
-    root.visited = true;
     visit(root);
+    root.visited = true;
     queue.enqueue(root);
 
     while(!queue.isEmpty()) {

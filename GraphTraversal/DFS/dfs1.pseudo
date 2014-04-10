@@ -1,0 +1,10 @@
+void search(Node r) {
+    if(r == null) return;
+    visit(r);
+    r.visited = true;
+    foreach(Node n in r.adjacent) {
+        if(n.visited == false) {
+            search(n);
+        }
+    }
+}
