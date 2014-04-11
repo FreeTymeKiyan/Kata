@@ -9,8 +9,9 @@ Be correct in a row for 10 times
 | Filename           | isRight    | Time |
 | ------------------ |:----------:|:----:|
 | bfs1.pseudo        |√           |03m17s|
+| bfs2.pseudo        |√           |03m13s|
 
 ## Accuracy
-1 / 1 = 100.00%
+2 / 2 = 100.00%
 
 ## Reasons for wrong:
