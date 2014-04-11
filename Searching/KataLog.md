@@ -10,9 +10,10 @@ Be correct in a row for 10 times
 | ------------------ |:----------:|:----:|
 | BinarySearch1.java |x           |05m40s|
 | BinarySearch2.java |x           |03m51s|
+| BinarySearch3.java |x           |02m54s|
 
 ## Accuracy
-0 / 2 = 00.00%
+1 / 3 = 33.33%
 
 ## Reasons for wrong:
 1. variable names mid and middle were used for one variable
