@@ -9,12 +9,13 @@ Be correct in a row for 10 times
 | Filename           | isRight    | Time |
 | ------------------ |:----------:|:----:|
 | BinarySearch1.java |x           |05m40s|
+| BinarySearch2.java |x           |03m51s|
 
 ## Accuracy
-0 / 1 = 00.00%
+0 / 2 = 00.00%
 
 ## Reasons for wrong:
 1. variable names mid and middle were used for one variable
 2. while(low < high) should be <= because there can be single element array at the end of the search
 3. if a[mid] > x, that means x should be in the left part, so high = middle - 1. 
-4. don't forget the return statement
+4. don't forget the return statement. But recursive method needs no return at the end because it won't be reachable.

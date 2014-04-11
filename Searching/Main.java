@@ -4,7 +4,9 @@ class Main {
         
         //System.out.println(BinarySearch.binarySearch(array, 2));
         //System.out.println(BinarySearch.binarySearchRecursive(array, 9, 0, array.length - 1));
-        System.out.println(BinarySearch1.binarySearch(array, 2));
-        System.out.println(BinarySearch1.binarySearchRecursive(array, 9, 0, array.length - 1));
+        //System.out.println(BinarySearch1.binarySearch(array, 2));
+        //System.out.println(BinarySearch1.binarySearchRecursive(array, 9, 0, array.length - 1));
+        System.out.println(BinarySearch2.binarySearch(array, 2));
+        System.out.println(BinarySearch2.binarySearchRecursive(array, 9, 0, array.length - 1));
     }
 }
