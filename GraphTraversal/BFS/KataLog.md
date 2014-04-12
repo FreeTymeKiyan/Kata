@@ -10,8 +10,9 @@ Be correct in a row for 10 times
 | ------------------ |:----------:|:----:|
 | bfs1.pseudo        |√           |03m17s|
 | bfs2.pseudo        |√           |03m13s|
+| bfs3.pseudo        |√           |02m21s|
 
 ## Accuracy
-2 / 2 = 100.00%
+3 / 3 = 100.00%
 
 ## Reasons for wrong:
