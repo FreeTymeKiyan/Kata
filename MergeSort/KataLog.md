@@ -33,9 +33,10 @@ Update: be correct in a row for 10 times
 | MergeSort21.java   |√           |4m22s |
 | MergeSort22.java   |√           |3m42s |
 | MergeSort23.java   |√           |3m32s |
+| MergeSort24.java   |√           |3m41s |
 
 ## Accuracy
-17 / 24 = 70.83%
+18 / 25 = 72.00%
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
@@ -46,3 +47,4 @@ Update: be correct in a row for 10 times
 6. , was typed into .
 7. sort(array, low, middle) not sort(array, low, middle - 1); sort(array, middle + 1, high) not sort(array, middle, high)
 8. when comparing, we are comapring helper array, not original one, because original one will be modified during merging.
+9. type complete variable name

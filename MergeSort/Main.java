@@ -48,7 +48,8 @@ class Main {
         //MergeSort20.sort(array, 0, array.length - 1);
         //MergeSort21.sort(array, 0, array.length - 1);
         //MergeSort22.sort(array, 0, array.length - 1);
-        MergeSort23.sort(array, 0, array.length - 1);
+        //MergeSort23.sort(array, 0, array.length - 1);
+        MergeSort24.sort(array, 0, array.length - 1);
         printArr(array);
     }
 
