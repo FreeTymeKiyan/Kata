@@ -11,9 +11,10 @@ Be correct in a row for 10 times
 | dfs1.pseudo        |x           |01m18s|
 | dfs2.pseudo        |√           |01m22s|
 | dfs3.pseudo        |√           |01m12s|
+| dfs4.pseudo        |√           |01m05s|
 
 ## Accuracy
-2 / 3 = 66.67%
+3 / 4 = 75.00%
 
 ## Reasons for wrong:
 1. the class of input type should be Node

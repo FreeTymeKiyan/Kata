@@ -12,4 +12,4 @@ Use kata method to practice algorithms
 02m48s
 ### GraphTraversal
 dfs 01m12s
-bfs 02m21s
+bfs 01m59s
