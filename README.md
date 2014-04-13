@@ -9,7 +9,7 @@ Use kata method to practice algorithms
 ### TreeTraversal
 02m50s
 ### BinarySearch
-02m49s
+02m48s
 ### GraphTraversal
 dfs 01m12s
 bfs 02m21s
