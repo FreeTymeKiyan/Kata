@@ -11,5 +11,5 @@ Use kata method to practice algorithms
 ### BinarySearch
 02m48s
 ### GraphTraversal
-dfs 01m05s
-bfs 01m59s
+1. dfs 01m05s
+1. bfs 01m59s
