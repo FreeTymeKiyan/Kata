@@ -12,8 +12,9 @@ Be correct in a row for 10 times
 | bfs2.pseudo        |√           |03m13s|
 | bfs3.pseudo        |√           |02m21s|
 | bfs4.pseudo        |√           |01m59s|
+| bfs5.pseudo        |√           |01m59s|
 
 ## Accuracy
-4 / 4 = 100.00%
+5 / 5 = 100.00%
 
 ## Reasons for wrong:
