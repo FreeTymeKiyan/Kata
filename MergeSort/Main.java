@@ -51,7 +51,8 @@ class Main {
         //MergeSort23.sort(array, 0, array.length - 1);
         //MergeSort24.sort(array, 0, array.length - 1);
         //MergeSort25.sort(array, 0, array.length - 1);
-        MergeSort26.sort(array, 0, array.length - 1);
+        //MergeSort26.sort(array, 0, array.length - 1);
+        MergeSort27.sort(array, 0, array.length - 1);
         printArr(array);
     }
 

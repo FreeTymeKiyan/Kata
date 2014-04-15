@@ -4,6 +4,7 @@
 To implement merge sort in Java in less than 5min.
 Update: less than 4min
 Update: be correct in a row for 10 times
+Achieved
 
 ## Log
 
@@ -36,9 +37,10 @@ Update: be correct in a row for 10 times
 | MergeSort24.java   |√           |3m41s |
 | MergeSort25.java   |√           |3m43s |
 | MergeSort26.java   |√           |3m48s |
+| MergeSort27.java   |√           |3m48s |
 
 ## Accuracy
-20 / 27 = 74.07%
+21 / 28 = 75.00%
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
