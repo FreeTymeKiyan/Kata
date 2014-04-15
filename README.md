@@ -3,7 +3,7 @@ Use kata method to practice algorithms
 
 ## Records
 ### MergeSort
-03m32s
+03m27s
 ### QuickSort
 02m24s
 ### TreeTraversal
