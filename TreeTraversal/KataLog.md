@@ -14,9 +14,10 @@ Update: be correct in a row for 10 times
 | Traversal3.java    |√           |03m01s|
 | Traversal4.java    |√           |03m00s|
 | Traversal5.java    |√           |02m37s|
+| Traversal6.java    |√           |02m33s|
 
 ## Accuracy
-5 / 6 = 83.33%
+6 / 7 = 85.71%
 
 ## Reasons for wrong:
 1. getLeftChild() is not defined in Node, use leftNode(). The same goes for getRightChild().
