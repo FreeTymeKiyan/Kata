@@ -7,7 +7,7 @@ Use kata method to practice algorithms
 ### QuickSort
 02m24s
 ### TreeTraversal
-02m33s
+02m22s
 ### BinarySearch
 02m41s
 ### GraphTraversal
