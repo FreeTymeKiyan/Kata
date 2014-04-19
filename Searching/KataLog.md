@@ -15,9 +15,10 @@ Be correct in a row for 10 times
 | BinarySearch5.java |√           |02m48s|
 | BinarySearch6.java |√           |02m45s|
 | BinarySearch7.java |√           |02m41s|
+| BinarySearch8.java |√           |02m48s|
 
 ## Accuracy
-5 / 7 = 71.43%
+6 / 8 = 75.00%
 
 ## Reasons for wrong:
 1. variable names mid and middle were used for one variable
