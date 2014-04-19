@@ -43,7 +43,8 @@ class Main {
         //QuickSort15.sort(array, 0, array.length - 1);
         //QuickSort16.sort(array, 0, array.length - 1);
         //QuickSort17.sort(array, 0, array.length - 1);
-        QuickSort18.sort(array, 0, array.length - 1);
+        //QuickSort18.sort(array, 0, array.length - 1);
+        QuickSort19.sort(array, 0, array.length - 1);
         printArr(array);
     }
 

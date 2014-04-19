@@ -27,9 +27,10 @@ Update: be correct in a row for 10 times
 | QuickSort16.java   |√           |02m48s|
 | QuickSort17.java   |√           |02m31s|
 | QuickSort18.java   |√           |02m30s|
+| QuickSort19.java   |√           |02m48s|
 
 ## Accuracy
-13 / 19 = 68.42%
+14 / 20 = 70.00%
 
 ## Reasons for wrong:
 1. if(left < right) is not right. Should be if(left <= right). Last step is not swapped. To make it simple, just remember, while(left <= right), if(left <= right), if these two are not the same, when left == right, it would be in the loop forever.
