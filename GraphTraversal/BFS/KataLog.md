@@ -14,8 +14,9 @@ Be correct in a row for 10 times
 | bfs4.pseudo        |√           |01m59s|
 | bfs5.pseudo        |√           |01m59s|
 | bfs6.pseudo        |√           |01m44s|
+| bfs7.pseudo        |√           |01m48s|
 
 ## Accuracy
-6 / 6 = 100.00%
+7 / 7 = 100.00%
 
 ## Reasons for wrong:
