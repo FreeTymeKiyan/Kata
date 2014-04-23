@@ -16,9 +16,10 @@ Be correct in a row for 10 times
 | dfs6.pseudo        |√           |00m51s|
 | dfs7.pseudo        |√           |00m59s|
 | dfs8.pseudo        |√           |00m54s|
+| dfs9.pseudo        |√           |00m51s|
 
 ## Accuracy
-7 / 8 = 87.50%
+8 / 9 = 87.50%
 
 ## Reasons for wrong:
 1. the class of input type should be Node
