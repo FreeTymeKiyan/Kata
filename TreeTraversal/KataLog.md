@@ -7,7 +7,7 @@ Update: be correct in a row for 10 times
 ## Log
 
 | Filename           | isRight    | Time |
-| ------------------ |:----------:|:----:|
+|:------------------ |:----------:|:----:|
 | Traversal.java     |√           |04m05s|
 | Traversal1.java    |x           |03m50s|
 | Traversal2.java    |√           |02m50s|
@@ -18,9 +18,10 @@ Update: be correct in a row for 10 times
 | Traversal7.java    |√           |02m57s|
 | Traversal8.java    |√           |02m22s|
 | Traversal9.java    |√           |02m26s|
+| Traversal10.java   |√           |02m22s|
 
 ## Accuracy
-9 / 10 = 90.00%
+10 / 11 = 90.91%
 
 ## Reasons for wrong:
 1. getLeftChild() is not defined in Node, use leftNode(). The same goes for getRightChild().

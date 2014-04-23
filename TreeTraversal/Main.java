@@ -27,6 +27,7 @@ public class Main {
         //Traversal6.traverse(root);
         //Traversal7.traverse(root);
         //Traversal8.traverse(root);
-        Traversal9.traverse(root);
+        //Traversal9.traverse(root);
+        Traversal10.traverse(root);
     }
 }
