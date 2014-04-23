@@ -7,7 +7,7 @@ Be correct in a row for 10 times
 ## Log
 
 | Filename           | isRight    | Time |
-| ------------------ |:----------:|:----:|
+|:------------------ |:----------:|:----:|
 | bfs1.pseudo        |√           |03m17s|
 | bfs2.pseudo        |√           |03m13s|
 | bfs3.pseudo        |√           |02m21s|
@@ -16,8 +16,9 @@ Be correct in a row for 10 times
 | bfs6.pseudo        |√           |01m44s|
 | bfs7.pseudo        |√           |01m48s|
 | bfs8.pseudo        |√           |01m55s|
+| bfs9.pseudo        |√           |01m43s|
 
 ## Accuracy
-8 / 8 = 100.00%
+9 / 9 = 100.00%
 
 ## Reasons for wrong:
