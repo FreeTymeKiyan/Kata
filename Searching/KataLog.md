@@ -7,7 +7,7 @@ Be correct in a row for 10 times
 ## Log
 
 | Filename           | isRight    | Time |
-| ------------------ |:----------:|:----:|
+|:------------------ |:----------:|:----:|
 | BinarySearch1.java |x           |05m40s|
 | BinarySearch2.java |x           |03m51s|
 | BinarySearch3.java |√           |02m54s|
@@ -17,9 +17,10 @@ Be correct in a row for 10 times
 | BinarySearch7.java |√           |02m41s|
 | BinarySearch8.java |√           |02m48s|
 | BinarySearch9.java |√           |02m32s|
+| BinarySearch10.java|√           |02m35s|
 
 ## Accuracy
-7 / 9 = 77.78%
+8 / 10 = 80.00%
 
 ## Reasons for wrong:
 1. variable names mid and middle were used for one variable
