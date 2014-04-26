@@ -41,9 +41,10 @@ Achieved
 | MergeSort28.java   |√           |3m58s |
 | MergeSort29.java   |√           |3m16s |
 | MergeSort30.java   |√           |3m24s |
+| MergeSort31.java   |√           |3m32s |
 
 ## Accuracy
-24 / 31 = 77.42%
+25 / 32 = 78.13%
 
 ## Reasons for wrong:
 1. forget the equal sign between < & remaining
