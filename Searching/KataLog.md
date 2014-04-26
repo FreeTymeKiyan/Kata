@@ -28,3 +28,4 @@ Be correct in a row for 10 times
 2. while(low < high) should be <= because there can be single element array at the end of the search
 3. if a[mid] > x, that means x should be in the left part, so high = middle - 1. 
 4. don't forget the return statement. But recursive method needs no return at the end because it won't be reachable.
+5. recursive algorithm needs an ending point at the beginning of the method, e.g, if(left > right) return -1; otherwise, stackoverflow would cause.
