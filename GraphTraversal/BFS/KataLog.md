@@ -18,8 +18,9 @@ Be correct in a row for 10 times
 | bfs8.pseudo        |√           |01m55s|
 | bfs9.pseudo        |√           |01m43s|
 | bfs10.pseudo       |√           |01m33s|
+| bfs11.pseudo       |√           |01m49s|
 
 ## Accuracy
-10 / 10 = 100.00%
+11 / 11 = 100.00%
 
 ## Reasons for wrong:
