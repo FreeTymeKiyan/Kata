@@ -19,9 +19,10 @@ Be correct in a row for 10 times
 | BinarySearch9.java |√           |02m32s|
 | BinarySearch10.java|√           |02m35s|
 | BinarySearch11.java|√           |02m50s|
+| BinarySearch12.java|x           |03m10s|
 
 ## Accuracy
-9 / 11 = 81.82%
+9 / 12 = 75.00%
 
 ## Reasons for wrong:
 1. variable names mid and middle were used for one variable
@@ -29,3 +30,4 @@ Be correct in a row for 10 times
 3. if a[mid] > x, that means x should be in the left part, so high = middle - 1. 
 4. don't forget the return statement. But recursive method needs no return at the end because it won't be reachable.
 5. recursive algorithm needs an ending point at the beginning of the method, e.g, if(left > right) return -1; otherwise, stackoverflow would cause.
+6. the iteration of a[mid] < x should be, binarySearchRecursive(a, x, mid + 1, right);, not only mid
