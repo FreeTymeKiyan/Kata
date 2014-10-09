@@ -1,11 +1,12 @@
-# This is the kata log of writing dfs pseudo code  
+# This is the KATA log of Writing DFS Pseudo Code  
 
 ## Goal
-To write dfs pseudo code in less than 3min.
-Be correct in a row for 10 times
 
+1. To write dfs pseudo code in less than 3min.
+2. Be correct in a row for 10 times.  
+  
 ## Log
-
+  
 | Filename           | isRight    | Time |
 | ------------------ |:----------:|:----:|
 | dfs1.pseudo        |x           |01m18s|
@@ -20,10 +21,13 @@ Be correct in a row for 10 times
 | dfs10.pseudo       |√           |00m49s|
 | dfs11.pseudo       |√           |01m00s|
 | dfs12.pseudo       |√           |00m48s|
-
-## Accuracy
-11 / 12 = 91.67%
-
-## Reasons for wrong:
+| dfs13.pseudo       |√           |00m48s|
+| dfs14.pseudo       |√           |01m03s|
+  
+## Accuracy  
+  
+13 / 14 = 92.86%
+  
+## Reasons for wrong:  
+  
 1. the class of input type should be Node
-2. 

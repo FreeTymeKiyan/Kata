@@ -1,11 +1,22 @@
-# This is the kata log of implementing tree traversals 
+# This is the KATA log of Tree Traversals Implementation  
+  
+## Goal  
+  
+###First round  
+  
+1. To implement tree traversal in Java in less than 3min.
+2. Update: be correct in a row for 10 times
+  
+Achieved
+Accuracy: 13 / 14 = 92.86%
+  
+###Second round
 
-## Goal
-To implement tree traversal in Java in less than 3min.
-Update: be correct in a row for 10 times
-
+1. less than 3min.
+2. be correct in a row for 10 times.
+  
 ## Log
-
+  
 | Filename           | isRight    | Time |
 |:------------------ |:----------:|:----:|
 | Traversal.java     |√           |04m05s|
@@ -22,9 +33,11 @@ Update: be correct in a row for 10 times
 | Traversal11.java   |√           |02m38s|
 | Traversal12.java   |√           |02m52s|
 | Traversal13.java   |√           |02m38s|
-
+  
 ## Accuracy
-13 / 14 = 92.86%
 
-## Reasons for wrong:
+1 / 1 = 100%
+
+## Reasons for wrong  
+  
 1. getLeftChild() is not defined in Node, use leftNode(). The same goes for getRightChild().

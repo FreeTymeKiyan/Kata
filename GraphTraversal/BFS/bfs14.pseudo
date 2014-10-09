@@ -1,0 +1,18 @@
+void search(Node r) {
+  if(r == null) return;
+  visit(r);
+  r.visited = true;
+  Queue q = new Queue();
+  q.enqueue(r);
+  
+  while(!q.isEmpty()) {
+    Node root = q.dequeue();
+    foreach(Node n in root.adjacent) {
+      if(!n.visited) {
+        visit(n);
+        n.visited = true;
+        q.enqueue(n);
+      }
+    }
+  }
+}

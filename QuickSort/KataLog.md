@@ -1,9 +1,20 @@
-# This is the kata log of implementing quick sort
+# This is the KATA log of Quick Sort Implementation
 
-## Goal
-To implement quick sort in Java in less than 4min.
-Update: be correct in a row for 10 times
-
+## Goal  
+  
+### First round  
+  
+1. To implement quick sort in Java in less than 4min.
+2. Update: be correct in a row for 10 times  
+  
+Achieved
+Accuracy: 19 / 25 = 76.00%
+  
+###Second round  
+  
+1. less than 4min
+2. be correct in a row for 10 times
+  
 ## Log
 
 | Filename           | isRight    | Time |
@@ -33,12 +44,17 @@ Update: be correct in a row for 10 times
 | QuickSort22.java   |√           |02m39s|
 | QuickSort23.java   |√           |02m46s|
 | QuickSort24.java   |√           |02m57s|
+| QuickSort25.java   |√           |------|
+| QuickSort26.java   |√           |03m16s|
 
 ## Accuracy
-19 / 25 = 76.00%
-
-## Reasons for wrong:
+  
+1 / 1 = 100%
+  
+## Reasons for wrong:  
+  
 1. if(left < right) is not right. Should be if(left <= right). Last step is not swapped. To make it simple, just remember, while(left <= right), if(left <= right), if these two are not the same, when left == right, it would be in the loop forever.
 2. missing return statement for partition() method.
 3. ; was typed as :
 4. the return value of swap is int. I think it might be better to cancel the swap method.
+  

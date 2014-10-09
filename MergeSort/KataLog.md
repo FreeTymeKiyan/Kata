@@ -1,18 +1,28 @@
-# This is the kata log of implementing merge sort
+# This is the KATA log of Merge Sort Implementation
 
-## Goal
-To implement merge sort in Java in less than 5min.
-Update: less than 4min
-Update: be correct in a row for 10 times
+## Goal  
+
+###First round
+
+1. To implement merge sort in Java in less than 5min.
+2. Update: less than 4min
+3. Update: be correct in a row for 10 times
+  
 Achieved
+Accuracy: 27 / 34 = 79.41%
 
+###Second round
+
+1. 5 min
+2. be correct in a row for 10 times 
+  
 ## Log
-
+  
 | Filename           | isRight    | Time |
 | ------------------ |:----------:|:----:|
-|   MergeSort.java   |x           |20m   |
-|   MergeSort1.java  |x           |10m58s|
-|   MergeSort2.java  |√           |<10m  |
+| MergeSort.java     |x           |20m   |
+| MergeSort1.java    |x           |10m58s|
+| MergeSort2.java    |√           |<10m  |
 | MergeSort3.java    |x           |6m59s |
 | MergeSort4.java    |√           |6m20s |
 | MergeSort5.java    |√           |5m07s |
@@ -44,17 +54,25 @@ Achieved
 | MergeSort31.java   |√           |3m32s |
 | MergeSort32.java   |√           |3m25s |
 | MergeSort33.java   |√           |4m00s |
-
-## Accuracy
-27 / 34 = 79.41%
-
-## Reasons for wrong:
-1. forget the equal sign between < & remaining
-2. didn't copy from helper int array to array
-3. wrong index for copying the remaining elements
-4. int helperRight = middle + 1; not high or middle
-5. int remain = middle - helperLeft; not middle - low
-6. , was typed into .
-7. sort(array, low, middle) not sort(array, low, middle - 1); sort(array, middle + 1, high) not sort(array, middle, high)
-8. when comparing, we are comapring helper array, not original one, because original one will be modified during merging.
-9. type complete variable name
+| MergeSort34.java   |√           |------|
+| MergeSort35.java   |x           |5m36s |
+  
+## Accuracy  
+  
+0 / 1 = 0%
+  
+## Reasons for wrong:  
+  
+1. forget the equal sign between < & remaining.
+2. didn't copy from helper int array to array.
+3. wrong index for copying the remaining elements.
+4. int helperRight = middle + 1; not high or middle.
+5. int remain = middle - helperLeft; not middle - low.
+6. "," was typed as "." .
+7. sort(array, low, middle) not sort(array, low, middle - 1); sort(array, middle + 1, high) not sort(array, middle, high).
+8. when comparing, we are comparing helper array, not original one, because original one will be modified during merging.
+9. type complete variable name.
+10. a is generic int array. Should be a.length, not a.length().
+11. upper bound for helperRight index should be high.
+12. copy from helper array to original array at last.
+  

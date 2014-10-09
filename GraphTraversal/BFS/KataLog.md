@@ -1,11 +1,12 @@
-# This is the kata log of pseudo code of bfs
+# This is the KATA log of Pseudo Code of BFS
 
-## Goal
-To write bfs pseudo code in less than 3min.
-Be correct in a row for 10 times
-
+## Goal  
+  
+1. To write BFS pseudo code in less than 3min.
+2. Be correct in a row for 10 times
+  
 ## Log
-
+  
 | Filename           | isRight    | Time |
 |:------------------ |:----------:|:----:|
 | bfs1.pseudo        |√           |03m17s|
@@ -20,8 +21,13 @@ Be correct in a row for 10 times
 | bfs10.pseudo       |√           |01m33s|
 | bfs11.pseudo       |√           |01m49s|
 | bfs12.pseudo       |√           |01m31s|
-
+| bfs13.pseudo       |√           |01m31s|
+| bfs14.pseudo       |√           |02m26s|
+  
 ## Accuracy
-12 / 12 = 100.00%
-
+  
+14 / 14 = 100.00%
+  
 ## Reasons for wrong:
+  
+1. Added check whether an adjacent node is already visited or not in foreach loop to avoid repeated visit. 
