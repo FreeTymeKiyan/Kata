@@ -1,9 +1,19 @@
 # This is the KATA log of Writing DFS Pseudo Code  
 
 ## Goal
-
+  
+###First round  
+  
 1. To write dfs pseudo code in less than 3min.
 2. Be correct in a row for 10 times.  
+  
+Achieved
+Accuracy: 12 / 13 = 92.86%
+
+###Second round
+
+1. in less than 1min.
+2. be correct in a row for 10 times.  
   
 ## Log
   
@@ -23,10 +33,11 @@
 | dfs12.pseudo       |√           |00m48s|
 | dfs13.pseudo       |√           |00m48s|
 | dfs14.pseudo       |√           |01m03s|
+| dfs15.pseudo       |√           |00m53s|
   
 ## Accuracy  
   
-13 / 14 = 92.86%
+2 / 2 = 100%
   
 ## Reasons for wrong:  
   

@@ -12,7 +12,7 @@ Accuracy: 19 / 25 = 76.00%
   
 ###Second round  
   
-1. less than 4min
+1. less than 3min
 2. be correct in a row for 10 times
   
 ## Log
@@ -46,10 +46,11 @@ Accuracy: 19 / 25 = 76.00%
 | QuickSort24.java   |√           |02m57s|
 | QuickSort25.java   |√           |------|
 | QuickSort26.java   |√           |03m16s|
+| QuickSort27.java   |√           |02m43s|
 
 ## Accuracy
   
-1 / 1 = 100%
+2 / 2 = 100%
   
 ## Reasons for wrong:  
   
@@ -57,4 +58,5 @@ Accuracy: 19 / 25 = 76.00%
 2. missing return statement for partition() method.
 3. ; was typed as :
 4. the return value of swap is int. I think it might be better to cancel the swap method.
+5. do not forget semi colon.
   

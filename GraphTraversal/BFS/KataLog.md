@@ -2,8 +2,18 @@
 
 ## Goal  
   
+###First round  
+  
 1. To write BFS pseudo code in less than 3min.
 2. Be correct in a row for 10 times
+  
+Achieved
+Accuracy: 13 / 13 = 100.00%
+
+###Second round  
+  
+1. less than 3min.
+2. be correct in a row for 10 times.
   
 ## Log
   
@@ -23,10 +33,11 @@
 | bfs12.pseudo       |√           |01m31s|
 | bfs13.pseudo       |√           |01m31s|
 | bfs14.pseudo       |√           |02m26s|
+| bfs15.pseudo       |√           |02m02s|
   
 ## Accuracy
   
-14 / 14 = 100.00%
+2 / 2 = 100%
   
 ## Reasons for wrong:
   
