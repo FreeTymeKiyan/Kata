@@ -34,10 +34,11 @@ Accuracy: 12 / 13 = 92.86%
 | dfs13.pseudo       |√           |00m48s|
 | dfs14.pseudo       |√           |01m03s|
 | dfs15.pseudo       |√           |00m53s|
+| dfs16.pseudo       |√           |00m45s|
   
 ## Accuracy  
   
-2 / 2 = 100%
+3 / 3 = 100%
   
 ## Reasons for wrong:  
   

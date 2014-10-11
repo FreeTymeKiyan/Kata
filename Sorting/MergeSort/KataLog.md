@@ -57,10 +57,11 @@ Accuracy: 27 / 34 = 79.41%
 | MergeSort34.java   |√           |------|
 | MergeSort35.java   |x           |05m36s|
 | MergeSort36.java   |x           |03m54s|
+| MergeSort37.java   |√           |03m25s|
   
 ## Accuracy  
   
-0 / 2 = 0%
+1 / 3 = 33.3%
   
 ## Reasons for wrong:  
   

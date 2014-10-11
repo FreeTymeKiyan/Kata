@@ -35,10 +35,11 @@ Accuracy: 10 / 13 = 76.92%
 | BinarySearch14.java|√           |------|
 | BinarySearch15.java|x           |03m19s|
 | BinarySearch15.java|x           |02m57s|
+| BinarySearch16.java|x           |03m33s|
   
 ## Accuracy  
   
-0 / 2 = 0%
+0 / 3 = 0%
 
 ## Reasons for wrong  
 
@@ -50,5 +51,6 @@ Accuracy: 10 / 13 = 76.92%
 6. the iteration of a[mid] < x should be, binarySearchRecursive(a, x, mid + 1, right);, not only mid
 7. spell binary wrong as bianry
 8. upper bound should be a.length - 1 instead of a.length, because it's the last element.
-9. remember to initialize mid before using it.   
+9. remember to initialize mid before using it.     
+10. return mid not a[mid], return the index of x
   

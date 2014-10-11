@@ -12,7 +12,7 @@ Accuracy: 13 / 14 = 92.86%
   
 ###Second round
 
-1. less than 3min.
+1. less than 2min.
 2. be correct in a row for 10 times.
   
 ## Log
@@ -33,10 +33,13 @@ Accuracy: 13 / 14 = 92.86%
 | Traversal11.java   |√           |02m38s|
 | Traversal12.java   |√           |02m52s|
 | Traversal13.java   |√           |02m38s|
+| Traversal14.java   |√           |------|
+| Traversal15.java   |√           |------|
+| Traversal16.java   |√           |01m58s|
   
 ## Accuracy
 
-1 / 1 = 100%
+2 / 2 = 100%
 
 ## Reasons for wrong  
   

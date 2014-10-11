@@ -12,7 +12,7 @@ Accuracy: 13 / 13 = 100.00%
 
 ###Second round  
   
-1. less than 3min.
+1. less than 2min.
 2. be correct in a row for 10 times.
   
 ## Log
@@ -34,10 +34,11 @@ Accuracy: 13 / 13 = 100.00%
 | bfs13.pseudo       |√           |01m31s|
 | bfs14.pseudo       |√           |02m26s|
 | bfs15.pseudo       |√           |02m02s|
+| bfs16.pseudo       |√           |01m41s|
   
 ## Accuracy
   
-2 / 2 = 100%
+3 / 3 = 100%
   
 ## Reasons for wrong:
   
