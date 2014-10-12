@@ -36,10 +36,11 @@ Accuracy: 13 / 14 = 92.86%
 | Traversal14.java   |√           |------|
 | Traversal15.java   |√           |------|
 | Traversal16.java   |√           |01m58s|
+| Traversal17.java   |√           |01m55s|
   
 ## Accuracy
 
-2 / 2 = 100%
+3 / 3 = 100%
 
 ## Reasons for wrong  
   

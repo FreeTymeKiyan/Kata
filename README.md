@@ -14,7 +14,7 @@ Use KATA method to practice basic algorithms.
   
 ### TreeTraversal  
   
-01m58s  
+01m55s  
   
 ### BinarySearch  
   
