@@ -36,8 +36,10 @@ class Main {
         // System.out.println(BinarySearch15.binarySearchRecursive(array, 19, 0, array.length - 1));   
         // System.out.println(BinarySearch16.binarySearch(array, 2));
         // System.out.println(BinarySearch16.binarySearchRecursive(array, 19, 0, array.length - 1));
-        System.out.println(BinarySearch17.binarySearch(array, 2));
-        System.out.println(BinarySearch17.binarySearchRecursive(array, 19, 0, array.length - 1));
+        // System.out.println(BinarySearch17.binarySearch(array, 2));
+        // System.out.println(BinarySearch17.binarySearchRecursive(array, 19, 0, array.length - 1));        
+        System.out.println(BinarySearch18.binarySearch(array, 2));
+        System.out.println(BinarySearch18.binarySearchRecursive(array, 19, 0, array.length - 1));
 
     }
 }

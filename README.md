@@ -10,7 +10,7 @@ Use KATA method to practice basic algorithms.
   
 ### QuickSort  
   
-02m24s  
+02m23s  
   
 ### TreeTraversal  
   

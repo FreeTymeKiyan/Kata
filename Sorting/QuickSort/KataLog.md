@@ -48,10 +48,11 @@ Accuracy: 19 / 25 = 76.00%
 | QuickSort26.java   |√           |03m16s|
 | QuickSort27.java   |√           |02m43s|
 | QuickSort28.java   |√           |02m29s|
+| QuickSort29.java   |√           |02m23s|
   
 ## Accuracy
   
-3 / 3 = 100%
+4 / 4 = 100%
   
 ## Reasons for wrong:  
   
