@@ -22,6 +22,6 @@ Use KATA method to practice basic algorithms.
   
 ### GraphTraversal  
   
-1. DFS 00m45s  
+1. DFS 00m43s  
 2. BFS 01m28s  
   
