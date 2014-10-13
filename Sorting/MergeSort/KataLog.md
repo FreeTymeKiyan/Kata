@@ -59,10 +59,11 @@ Accuracy: 27 / 34 = 79.41%
 | MergeSort36.java   |x           |03m54s|
 | MergeSort37.java   |√           |03m25s|
 | MergeSort38.java   |x           |03m12s|
+| MergeSort39.java   |x           |03m17s|
   
 ## Accuracy  
   
-1 / 4 = 25%
+1 / 5 = 20.0%
   
 ## Reasons for wrong:  
   
@@ -80,4 +81,5 @@ Accuracy: 27 / 34 = 79.41%
 12. copy from helper array to original array at last.
 13. remain should be middle - left because only left part can have elements left
 14. every time copy an element from helper to original array, we need to move both indices. 
+15. missed int mid = low + (high - low) / 2 before sort each half.
   

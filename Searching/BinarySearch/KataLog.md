@@ -37,10 +37,11 @@ Accuracy: 10 / 13 = 76.92%
 | BinarySearch15.java|x           |02m57s|
 | BinarySearch16.java|x           |03m33s|
 | BinarySearch17.java|√           |02m50s|
+| BinarySearch18.java|√           |02m48s|
   
 ## Accuracy  
   
-1 / 4 = 25%
+2 / 5 = 40.0%
 
 ## Reasons for wrong  
 
