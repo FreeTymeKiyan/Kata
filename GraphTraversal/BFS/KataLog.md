@@ -36,10 +36,11 @@ Accuracy: 13 / 13 = 100.00%
 | bfs15.pseudo       |√           |02m02s|
 | bfs16.pseudo       |√           |01m41s|
 | bfs17.pseudo       |√           |01m28s|
+| bfs18.pseudo       |√           |01m34s|
   
 ## Accuracy
   
-4 / 4 = 100%
+5 / 5 = 100%
   
 ## Reasons for wrong:
   
